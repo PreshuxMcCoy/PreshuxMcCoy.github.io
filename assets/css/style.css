@@ -457,3 +457,11 @@ footer p {
         padding-bottom: 30px;
     }
 }
+
+.Profile Picture {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
