@@ -1,1 +1,54 @@
+🛒 Walmart Sales & Operations Dashboard
+📌 Project Overview
+This project involves a deep-dive analysis of Walmart's retail operations using Excel Power Pivot and DAX. By connecting multiple data tables and creating a relational data model, this dashboard provides a holistic view of sales trends, customer retention, and employee performance across various departments and US regions.
 
+🏗️ Technical Architecture
+1. Data Modeling (Power Pivot)
+Rather than relying on flat files, I built a relational data model to handle complex queries efficiently.
+
+Star Schema: Established relationships between Sales, Products, Customers, Employees, and Department tables.
+
+Relationship Management: Utilized One-to-Many relationships to ensure accurate filtering across different dimensions.
+
+2. Advanced Analytics (DAX Formulas)
+I moved beyond standard PivotTable calculations by writing custom Data Analysis Expressions (DAX) to track sophisticated business KPIs:
+
+Total Revenue: ∑(Quantity×Price).
+
+Customer Retention Rate: Calculated the percentage of returning customers over time.
+
+Profit per Sale: Derived by subtracting costs/overheads from gross revenue per transaction.
+
+Average Basket Size: Tracking the number of items sold per customer session.
+
+📊 Key Insights & Visualizations
+📈 Sales & Revenue Trends
+Total Revenue: The dashboard reflects a total revenue of $15.7M with 60K units sold.
+
+Temporal Patterns: Sales show a peak in December ($1.4M), highlighting the holiday season impact, while daily trends show consistent performance with a slight lead on Fridays ($2.3M).
+
+Regional Performance: The "Sales by Region" map identifies high-performing states like Indiana ($358K) and Minnesota ($358K) as key revenue drivers.
+
+📦 Product & Department Analysis
+Top Sellers: The "Area Force" product leads sales with 233K units, followed closely by "At Hour" at 190K.
+
+Department Leaders: The Sports & Outdoors and Clothing departments are the primary revenue engines, both contributing $2.4M each.
+
+👥 Human Capital & Payments
+Employee Efficiency: Performance is tracked across 15 employees, ensuring workload is balanced across the 500-customer base.
+
+Payment Preferences: Customers prefer Cash (26%) and Credit Cards (25%), followed by Debit Cards and Mobile Payments.
+
+✅ Strategic Recommendations
+Inventory Optimization: Increase stock levels for the "Sports & Outdoors" department during the Q4 peak identified in the monthly trend.
+
+Regional Marketing: Replicate the sales strategies used in Indiana and Minnesota in lower-performing regions to boost national averages.
+
+Loyalty Programs: With a customer base of 500, implementing a loyalty program could further stabilize the Retention Rate and increase the Average Basket Size.
+
+🛠️ Tools Used
+Excel Power Pivot: For data modeling and handling large datasets.
+
+DAX (Data Analysis Expressions): For complex measures and KPIs.
+
+PivotCharts & Slicers: For interactive visual exploration by Year (2020–2025) and Gender.
