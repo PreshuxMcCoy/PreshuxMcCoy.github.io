@@ -1,1 +1,86 @@
+Adidas Sales Performance Analysis 📊
+Portfolio Overview
 
+This project presents an interactive Adidas Sales Dashboard designed to provide executive-level visibility into sales performance, profitability, and regional trends. The analysis consolidates key metrics into a single view, enabling faster, data-driven decision-making across regions, states, and sales channels.
+
+BUSINESS PROBLEM
+
+Adidas needed a clear and centralized way to:
+
+Monitor overall sales and profit performance
+
+Identify high- and low-performing regions and states
+
+Understand how sales channels (In-store, Online, Outlet) impact revenue
+
+Track performance trends across time
+
+Raw sales data alone made it difficult for stakeholders to quickly extract insights and act strategically.
+
+OBJECTIVES
+
+Analyze total sales, profit, and units sold
+
+Compare regional and state-level performance
+
+Evaluate sales methods and time-based trends
+
+Highlight areas for growth and optimization
+
+KEY KPI
+
+Total Sales: 900M
+
+Total Units Sold: 2M
+
+Total Profit: 332M
+
+Profit Margin Growth: +9.52%
+
+Sales Growth: +9.47%
+
+KEY INSIGHTS
+
+The West region dominates sales with 270M, nearly double the lowest-performing region
+
+Sales are highly concentrated in top states such as New York, California, and Florida
+
+The Mid-West underperforms despite population size, indicating potential strategic gaps
+
+Discount and channel performance vary significantly by region
+
+Clear seasonality trends are visible across months and years
+
+RECOMMENDATION
+
+Invest more heavily in high-performing regions like the West
+
+Replicate successful sales strategies from top states in similar markets
+
+Reassess pricing and discount strategies in low-performing regions
+
+Optimize channel mix by region to improve profit margins
+
+Tools & Skills Used
+
+Power BI / Excel – Data modeling and dashboard development
+
+Data Cleaning & Transformation
+
+Sales & Profitability Analysis
+
+Data Visualization & Storytelling
+
+Dashboard Preview
+
+BUSINESS IMPACT
+
+This dashboard enables leadership to:
+
+Quickly assess business health
+
+Identify growth opportunities
+
+Improve pricing, inventory, and regional strategies
+
+Make confident, insight-driven decisions
